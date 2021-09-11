@@ -1,0 +1,79 @@
+body {
+	background: linear-gradient(to bottom, #ffcc66 0%, #ffffff 100%);
+	background-attachment: fixed;
+	overflow-x: hidden;
+	font-size: 25;
+}
+
+#menu {
+	height: 100px;
+	left: 1100px;
+   	position: relative;
+}
+
+#bg {
+	background-image: url('charitybg.png');
+	background-size: cover;
+	height : 1000px;
+}
+
+.heading {
+	font-size : 60;
+	position : relative;
+	top : 200px;
+	right : 480px;
+}
+
+#pay {
+	position : absolute; 
+	top : 400px;
+	left : 300px;
+}
+
+#home {
+	text-align : center;
+	position : relative;
+	top : 100px;
+}
+
+#about {
+	text-align : center;
+	position : relative;
+	top : 300px;
+}
+
+#donate {
+	text-align: center;
+	position : relative;
+	top : 500px;
+}
+
+
+a {
+	padding-right : 80px;
+	font-size: 25;
+	color : blue;
+}
+
+
+p {
+	white-space:pre;
+}
+
+form {
+	position : absolute; 
+	top : 250px;
+	left : 660px;
+}
+
+#terms {
+	position : absolute; 
+	top : 300px;
+	left : 170px;
+}
+
+#btmmenu {
+	position : relative;
+	left : 560px;
+	top : 1200px;
+}
